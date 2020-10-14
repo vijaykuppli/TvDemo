@@ -1,0 +1,3428 @@
+{
+  "pageType": "home",
+  "components": [
+    {
+      "componentType": "carousel_component",
+      "data": {
+        "name": "Recommended for you",
+        "list": [
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },{
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },{
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },{
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },{
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },{
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },{
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },{
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+
+
+
+
+          {
+            "title": "Archtichare",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png",
+            "action": {
+              "type": "page",
+              "pageId": "archtichare_detail"
+            }
+          },
+          {
+            "title": "Baboon",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/baboon.png",
+            "action": {
+              "type": "page",
+              "pageId": "baboon_detail"
+            }
+          },
+          {
+            "title": "Boat",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/boat.png",
+            "action": {
+              "type": "page",
+              "pageId": "boat_detail"
+            }
+          },
+          {
+            "title": "Cat",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/cat.png",
+            "action": {
+              "type": "page",
+              "pageId": "cat_detail"
+            }
+          },
+          {
+            "title": "Fruits",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/fruits.png",
+            "action": {
+              "type": "page",
+              "pageId": "fruits_detail"
+            }
+          }
+        ]
+      }
+    },
+
+
+
+
+
+
+    {
+      "componentType": "carousel_component",
+      "data": {
+        "name": "Recommended for you",
+        "list": [
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },{
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },{
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },{
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },{
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },{
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },{
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },{
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+
+
+
+
+          {
+            "title": "Archtichare",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png",
+            "action": {
+              "type": "page",
+              "pageId": "archtichare_detail"
+            }
+          },
+          {
+            "title": "Baboon",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/baboon.png",
+            "action": {
+              "type": "page",
+              "pageId": "baboon_detail"
+            }
+          },
+          {
+            "title": "Boat",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/boat.png",
+            "action": {
+              "type": "page",
+              "pageId": "boat_detail"
+            }
+          },
+          {
+            "title": "Cat",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/cat.png",
+            "action": {
+              "type": "page",
+              "pageId": "cat_detail"
+            }
+          },
+          {
+            "title": "Fruits",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/fruits.png",
+            "action": {
+              "type": "page",
+              "pageId": "fruits_detail"
+            }
+          }
+        ]
+      }
+    },
+
+    {
+      "componentType": "carousel_component",
+      "data": {
+        "name": "Premium Cars",
+        "list": [
+          {
+            "title": "Mercedes",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/91vBl9ym2XL._AC_SL1500_.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Ferrari",
+            "image": "https://www.setaswall.com/wp-content/uploads/2017/09/Ferrari-Portofino-0o-Wallpaper-640-x-960.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "archtichare_detail"
+            }
+          },
+          {
+            "title": "Bugatti",
+            "image": "https://i.pinimg.com/474x/55/58/9c/55589c4300ade357c2523ff92da5b79f.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "baboon_detail"
+            }
+          },
+          {
+            "title": "Lamborghini",
+            "image": "https://carboard.pro/Cars-Gallery/2017/wp-content/uploads/2018/03/1521013062_401_Lamborghini-2018-Lamborghini-Aventador-SV...-Cars.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "boat_detail"
+            }
+          },
+          {
+            "title": "Porsche",
+            "image": "https://i.pinimg.com/originals/0e/a2/39/0ea239fee74c98fb06d2f7b01f824f0e.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "cat_detail"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "componentType": "simple_card_component",
+      "data": {
+        "name": "Rolls-Royce Sweptail",
+        "image": "https://cdn.motor1.com/images/mgl/kL2kY/s1/rolls-royce-sweptail-cabrio-render.jpg",
+        "description": "The Rolls-Royce Sweptail is a one-off large luxury car made in the United Kingdom by Rolls-Royce Motor Cars. At the time of its May 2017 debut at the yearly Concorso d’Eleganza Villa d’Este event it was the most expensive new automobile in the world, costing around $12.8 million USD."
+      }
+    },
+    {
+      "componentType": "simple_card_component",
+      "data": {
+        "name": "Rolls-Royce Sweptail",
+        "image": "https://cdn.motor1.com/images/mgl/kL2kY/s1/rolls-royce-sweptail-cabrio-render.jpg",
+        "description": "The Rolls-Royce Sweptail is a one-off large luxury car made in the United Kingdom by Rolls-Royce Motor Cars. At the time of its May 2017 debut at the yearly Concorso d’Eleganza Villa d’Este event it was the most expensive new automobile in the world, costing around $12.8 million USD."
+      }
+    },
+    {
+      "componentType": "carousel_component",
+      "data": {
+        "name": "Premium Cars",
+        "list": [
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },{
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },{
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },{
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },{
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },{
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },{
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },{
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },          {
+            "title": "Airplane",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+
+
+
+
+          {
+            "title": "Archtichare",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png",
+            "action": {
+              "type": "page",
+              "pageId": "archtichare_detail"
+            }
+          },
+          {
+            "title": "Baboon",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/baboon.png",
+            "action": {
+              "type": "page",
+              "pageId": "baboon_detail"
+            }
+          },
+          {
+            "title": "Boat",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/boat.png",
+            "action": {
+              "type": "page",
+              "pageId": "boat_detail"
+            }
+          },
+          {
+            "title": "Cat",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/cat.png",
+            "action": {
+              "type": "page",
+              "pageId": "cat_detail"
+            }
+          },
+          {
+            "title": "Fruits",
+            "image": "https://homepages.cae.wisc.edu/~ece533/images/fruits.png",
+            "action": {
+              "type": "page",
+              "pageId": "fruits_detail"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "componentType": "carousel_component",
+      "data": {
+        "name": "Premium Cars",
+        "list": [
+          {
+            "title": "Mercedes",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/91vBl9ym2XL._AC_SL1500_.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Ferrari",
+            "image": "https://www.setaswall.com/wp-content/uploads/2017/09/Ferrari-Portofino-0o-Wallpaper-640-x-960.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "archtichare_detail"
+            }
+          },
+          {
+            "title": "Bugatti",
+            "image": "https://i.pinimg.com/474x/55/58/9c/55589c4300ade357c2523ff92da5b79f.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "baboon_detail"
+            }
+          },
+          {
+            "title": "Lamborghini",
+            "image": "https://carboard.pro/Cars-Gallery/2017/wp-content/uploads/2018/03/1521013062_401_Lamborghini-2018-Lamborghini-Aventador-SV...-Cars.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "boat_detail"
+            }
+          },
+          {
+            "title": "Porsche",
+            "image": "https://i.pinimg.com/originals/0e/a2/39/0ea239fee74c98fb06d2f7b01f824f0e.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "cat_detail"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "componentType": "carousel_component",
+      "data": {
+        "name": "Premium Cars",
+        "list": [
+          {
+            "title": "Mercedes",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/91vBl9ym2XL._AC_SL1500_.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Ferrari",
+            "image": "https://www.setaswall.com/wp-content/uploads/2017/09/Ferrari-Portofino-0o-Wallpaper-640-x-960.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "archtichare_detail"
+            }
+          },
+          {
+            "title": "Bugatti",
+            "image": "https://i.pinimg.com/474x/55/58/9c/55589c4300ade357c2523ff92da5b79f.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "baboon_detail"
+            }
+          },
+          {
+            "title": "Lamborghini",
+            "image": "https://carboard.pro/Cars-Gallery/2017/wp-content/uploads/2018/03/1521013062_401_Lamborghini-2018-Lamborghini-Aventador-SV...-Cars.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "boat_detail"
+            }
+          },
+          {
+            "title": "Porsche",
+            "image": "https://i.pinimg.com/originals/0e/a2/39/0ea239fee74c98fb06d2f7b01f824f0e.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "cat_detail"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "componentType": "carousel_component",
+      "data": {
+        "name": "Premium Cars",
+        "list": [
+          {
+            "title": "Mercedes",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/91vBl9ym2XL._AC_SL1500_.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Ferrari",
+            "image": "https://www.setaswall.com/wp-content/uploads/2017/09/Ferrari-Portofino-0o-Wallpaper-640-x-960.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "archtichare_detail"
+            }
+          },
+          {
+            "title": "Bugatti",
+            "image": "https://i.pinimg.com/474x/55/58/9c/55589c4300ade357c2523ff92da5b79f.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "baboon_detail"
+            }
+          },
+          {
+            "title": "Lamborghini",
+            "image": "https://carboard.pro/Cars-Gallery/2017/wp-content/uploads/2018/03/1521013062_401_Lamborghini-2018-Lamborghini-Aventador-SV...-Cars.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "boat_detail"
+            }
+          },
+          {
+            "title": "Porsche",
+            "image": "https://i.pinimg.com/originals/0e/a2/39/0ea239fee74c98fb06d2f7b01f824f0e.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "cat_detail"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "componentType": "carousel_component",
+      "data": {
+        "name": "Premium Cars",
+        "list": [
+          {
+            "title": "Mercedes",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/91vBl9ym2XL._AC_SL1500_.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Ferrari",
+            "image": "https://www.setaswall.com/wp-content/uploads/2017/09/Ferrari-Portofino-0o-Wallpaper-640-x-960.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "archtichare_detail"
+            }
+          },
+          {
+            "title": "Bugatti",
+            "image": "https://i.pinimg.com/474x/55/58/9c/55589c4300ade357c2523ff92da5b79f.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "baboon_detail"
+            }
+          },
+          {
+            "title": "Lamborghini",
+            "image": "https://carboard.pro/Cars-Gallery/2017/wp-content/uploads/2018/03/1521013062_401_Lamborghini-2018-Lamborghini-Aventador-SV...-Cars.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "boat_detail"
+            }
+          },
+          {
+            "title": "Porsche",
+            "image": "https://i.pinimg.com/originals/0e/a2/39/0ea239fee74c98fb06d2f7b01f824f0e.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "cat_detail"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "componentType": "carousel_component",
+      "data": {
+        "name": "Premium Cars",
+        "list": [
+          {
+            "title": "Mercedes",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/91vBl9ym2XL._AC_SL1500_.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Ferrari",
+            "image": "https://www.setaswall.com/wp-content/uploads/2017/09/Ferrari-Portofino-0o-Wallpaper-640-x-960.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "archtichare_detail"
+            }
+          },
+          {
+            "title": "Bugatti",
+            "image": "https://i.pinimg.com/474x/55/58/9c/55589c4300ade357c2523ff92da5b79f.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "baboon_detail"
+            }
+          },
+          {
+            "title": "Lamborghini",
+            "image": "https://carboard.pro/Cars-Gallery/2017/wp-content/uploads/2018/03/1521013062_401_Lamborghini-2018-Lamborghini-Aventador-SV...-Cars.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "boat_detail"
+            }
+          },
+          {
+            "title": "Porsche",
+            "image": "https://i.pinimg.com/originals/0e/a2/39/0ea239fee74c98fb06d2f7b01f824f0e.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "cat_detail"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "componentType": "carousel_component",
+      "data": {
+        "name": "Premium Cars",
+        "list": [
+          {
+            "title": "Mercedes",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/91vBl9ym2XL._AC_SL1500_.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Ferrari",
+            "image": "https://www.setaswall.com/wp-content/uploads/2017/09/Ferrari-Portofino-0o-Wallpaper-640-x-960.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "archtichare_detail"
+            }
+          },
+          {
+            "title": "Bugatti",
+            "image": "https://i.pinimg.com/474x/55/58/9c/55589c4300ade357c2523ff92da5b79f.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "baboon_detail"
+            }
+          },
+          {
+            "title": "Lamborghini",
+            "image": "https://carboard.pro/Cars-Gallery/2017/wp-content/uploads/2018/03/1521013062_401_Lamborghini-2018-Lamborghini-Aventador-SV...-Cars.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "boat_detail"
+            }
+          },
+          {
+            "title": "Porsche",
+            "image": "https://i.pinimg.com/originals/0e/a2/39/0ea239fee74c98fb06d2f7b01f824f0e.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "cat_detail"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "componentType": "carousel_component",
+      "data": {
+        "name": "Premium Cars",
+        "list": [
+          {
+            "title": "Mercedes",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/91vBl9ym2XL._AC_SL1500_.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Ferrari",
+            "image": "https://www.setaswall.com/wp-content/uploads/2017/09/Ferrari-Portofino-0o-Wallpaper-640-x-960.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "archtichare_detail"
+            }
+          },
+          {
+            "title": "Bugatti",
+            "image": "https://i.pinimg.com/474x/55/58/9c/55589c4300ade357c2523ff92da5b79f.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "baboon_detail"
+            }
+          },
+          {
+            "title": "Lamborghini",
+            "image": "https://carboard.pro/Cars-Gallery/2017/wp-content/uploads/2018/03/1521013062_401_Lamborghini-2018-Lamborghini-Aventador-SV...-Cars.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "boat_detail"
+            }
+          },
+          {
+            "title": "Porsche",
+            "image": "https://i.pinimg.com/originals/0e/a2/39/0ea239fee74c98fb06d2f7b01f824f0e.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "cat_detail"
+            }
+          }
+        ]
+      }
+    },    {
+      "componentType": "carousel_component",
+      "data": {
+        "name": "Premium Cars",
+        "list": [
+          {
+            "title": "Mercedes",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/91vBl9ym2XL._AC_SL1500_.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Ferrari",
+            "image": "https://www.setaswall.com/wp-content/uploads/2017/09/Ferrari-Portofino-0o-Wallpaper-640-x-960.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "archtichare_detail"
+            }
+          },
+          {
+            "title": "Bugatti",
+            "image": "https://i.pinimg.com/474x/55/58/9c/55589c4300ade357c2523ff92da5b79f.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "baboon_detail"
+            }
+          },
+          {
+            "title": "Lamborghini",
+            "image": "https://carboard.pro/Cars-Gallery/2017/wp-content/uploads/2018/03/1521013062_401_Lamborghini-2018-Lamborghini-Aventador-SV...-Cars.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "boat_detail"
+            }
+          },
+          {
+            "title": "Porsche",
+            "image": "https://i.pinimg.com/originals/0e/a2/39/0ea239fee74c98fb06d2f7b01f824f0e.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "cat_detail"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "componentType": "carousel_component",
+      "data": {
+        "name": "Premium Cars",
+        "list": [
+          {
+            "title": "Mercedes",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/91vBl9ym2XL._AC_SL1500_.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Ferrari",
+            "image": "https://www.setaswall.com/wp-content/uploads/2017/09/Ferrari-Portofino-0o-Wallpaper-640-x-960.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "archtichare_detail"
+            }
+          },
+          {
+            "title": "Bugatti",
+            "image": "https://i.pinimg.com/474x/55/58/9c/55589c4300ade357c2523ff92da5b79f.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "baboon_detail"
+            }
+          },
+          {
+            "title": "Lamborghini",
+            "image": "https://carboard.pro/Cars-Gallery/2017/wp-content/uploads/2018/03/1521013062_401_Lamborghini-2018-Lamborghini-Aventador-SV...-Cars.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "boat_detail"
+            }
+          },
+          {
+            "title": "Porsche",
+            "image": "https://i.pinimg.com/originals/0e/a2/39/0ea239fee74c98fb06d2f7b01f824f0e.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "cat_detail"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "componentType": "carousel_component",
+      "data": {
+        "name": "Premium Cars",
+        "list": [
+          {
+            "title": "Mercedes",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/91vBl9ym2XL._AC_SL1500_.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Ferrari",
+            "image": "https://www.setaswall.com/wp-content/uploads/2017/09/Ferrari-Portofino-0o-Wallpaper-640-x-960.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "archtichare_detail"
+            }
+          },
+          {
+            "title": "Bugatti",
+            "image": "https://i.pinimg.com/474x/55/58/9c/55589c4300ade357c2523ff92da5b79f.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "baboon_detail"
+            }
+          },
+          {
+            "title": "Lamborghini",
+            "image": "https://carboard.pro/Cars-Gallery/2017/wp-content/uploads/2018/03/1521013062_401_Lamborghini-2018-Lamborghini-Aventador-SV...-Cars.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "boat_detail"
+            }
+          },
+          {
+            "title": "Porsche",
+            "image": "https://i.pinimg.com/originals/0e/a2/39/0ea239fee74c98fb06d2f7b01f824f0e.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "cat_detail"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "componentType": "carousel_component",
+      "data": {
+        "name": "Premium Cars",
+        "list": [
+          {
+            "title": "Mercedes",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/91vBl9ym2XL._AC_SL1500_.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Ferrari",
+            "image": "https://www.setaswall.com/wp-content/uploads/2017/09/Ferrari-Portofino-0o-Wallpaper-640-x-960.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "archtichare_detail"
+            }
+          },
+          {
+            "title": "Bugatti",
+            "image": "https://i.pinimg.com/474x/55/58/9c/55589c4300ade357c2523ff92da5b79f.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "baboon_detail"
+            }
+          },
+          {
+            "title": "Lamborghini",
+            "image": "https://carboard.pro/Cars-Gallery/2017/wp-content/uploads/2018/03/1521013062_401_Lamborghini-2018-Lamborghini-Aventador-SV...-Cars.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "boat_detail"
+            }
+          },
+          {
+            "title": "Porsche",
+            "image": "https://i.pinimg.com/originals/0e/a2/39/0ea239fee74c98fb06d2f7b01f824f0e.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "cat_detail"
+            }
+          }
+        ]
+      }
+    },    {
+      "componentType": "carousel_component",
+      "data": {
+        "name": "Premium Cars",
+        "list": [
+          {
+            "title": "Mercedes",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/91vBl9ym2XL._AC_SL1500_.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "airplane_detail"
+            }
+          },
+          {
+            "title": "Ferrari",
+            "image": "https://www.setaswall.com/wp-content/uploads/2017/09/Ferrari-Portofino-0o-Wallpaper-640-x-960.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "archtichare_detail"
+            }
+          },
+          {
+            "title": "Bugatti",
+            "image": "https://i.pinimg.com/474x/55/58/9c/55589c4300ade357c2523ff92da5b79f.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "baboon_detail"
+            }
+          },
+          {
+            "title": "Lamborghini",
+            "image": "https://carboard.pro/Cars-Gallery/2017/wp-content/uploads/2018/03/1521013062_401_Lamborghini-2018-Lamborghini-Aventador-SV...-Cars.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "boat_detail"
+            }
+          },
+          {
+            "title": "Porsche",
+            "image": "https://i.pinimg.com/originals/0e/a2/39/0ea239fee74c98fb06d2f7b01f824f0e.jpg",
+            "action": {
+              "type": "page",
+              "pageId": "cat_detail"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

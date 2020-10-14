@@ -1,16 +1,12 @@
 package com.sample.myapplication
 
 import android.content.Intent
-import android.graphics.Color
 import android.graphics.drawable.Drawable
 import android.os.Bundle
 import android.os.Handler
 import android.os.Looper
 import android.util.DisplayMetrics
 import android.util.Log
-import android.view.Gravity
-import android.view.ViewGroup
-import android.widget.TextView
 import android.widget.Toast
 import androidx.core.app.ActivityOptionsCompat
 import androidx.core.content.ContextCompat
@@ -18,8 +14,6 @@ import androidx.leanback.app.BackgroundManager
 import androidx.leanback.app.BrowseSupportFragment
 import androidx.leanback.widget.*
 import com.bumptech.glide.Glide
-import com.bumptech.glide.load.resource.drawable.GlideDrawable
-import com.bumptech.glide.request.animation.GlideAnimation
 import com.bumptech.glide.request.target.SimpleTarget
 import java.util.*
 
@@ -77,39 +71,16 @@ class MainFragment : BrowseSupportFragment() {
     }
 
     private fun loadRows() {
-        val list = MovieList.list
+        val renderComponents = RenderComponents()
 
-        val rowsAdapter = ArrayObjectAdapter(ListRowPresenter())
-        val cardPresenter = CardPresenter()
+        val caraouselAdapter = renderComponents.setCarouselComponent(resources)
 
-        for (i in 0 until NUM_ROWS) {
-            if (i != 0) {
-                Collections.shuffle(list)
-            }
-            val listRowAdapter = ArrayObjectAdapter(cardPresenter)
-            for (j in 0 until NUM_COLS) {
-                listRowAdapter.add(list[j % 5])
-            }
-            val header = HeaderItem(i.toLong(), MovieList.MOVIE_CATEGORY[i])
-            rowsAdapter.add(ListRow(header, listRowAdapter))
-        }
-
-        val gridHeader = HeaderItem(NUM_ROWS.toLong(), "PREFERENCES")
-
-        val mGridPresenter = GridItemPresenter()
-        val gridRowAdapter = ArrayObjectAdapter(mGridPresenter)
-        gridRowAdapter.add(resources.getString(R.string.grid_view))
-        gridRowAdapter.add(getString(R.string.error_fragment))
-        gridRowAdapter.add(resources.getString(R.string.personal_settings))
-        rowsAdapter.add(ListRow(gridHeader, gridRowAdapter))
-
-        adapter = rowsAdapter
+        adapter = caraouselAdapter
     }
 
     private fun setupEventListeners() {
         setOnSearchClickedListener {
-            Toast.makeText(context, "Implement your own in-app search", Toast.LENGTH_LONG)
-                    .show()
+            startActivity(Intent(requireContext(), SearchActivity::class.java))
         }
 
         onItemViewClickedListener = ItemViewClickedListener()
@@ -118,10 +89,11 @@ class MainFragment : BrowseSupportFragment() {
 
     private inner class ItemViewClickedListener : OnItemViewClickedListener {
         override fun onItemClicked(
-                itemViewHolder: Presenter.ViewHolder,
-                item: Any,
-                rowViewHolder: RowPresenter.ViewHolder,
-                row: Row) {
+            itemViewHolder: Presenter.ViewHolder,
+            item: Any,
+            rowViewHolder: RowPresenter.ViewHolder,
+            row: Row
+        ) {
 
             if (item is Movie) {
                 Log.d(TAG, "Item: " + item.toString())
@@ -129,10 +101,11 @@ class MainFragment : BrowseSupportFragment() {
                 intent.putExtra(DetailsActivity.MOVIE, item)
 
                 val bundle = ActivityOptionsCompat.makeSceneTransitionAnimation(
-                        requireActivity(),
-                        (itemViewHolder.view as ImageCardView).mainImageView,
-                        DetailsActivity.SHARED_ELEMENT_NAME)
-                        .toBundle()
+                    requireActivity(),
+                    (itemViewHolder.view as ImageCardView).mainImageView,
+                    DetailsActivity.SHARED_ELEMENT_NAME
+                )
+                    .toBundle()
                 activity?.startActivity(intent, bundle)
             } else if (item is String) {
                 if (item.contains(getString(R.string.error_fragment))) {
@@ -146,8 +119,10 @@ class MainFragment : BrowseSupportFragment() {
     }
 
     private inner class ItemViewSelectedListener : OnItemViewSelectedListener {
-        override fun onItemSelected(itemViewHolder: Presenter.ViewHolder?, item: Any?,
-                                    rowViewHolder: RowPresenter.ViewHolder, row: Row) {
+        override fun onItemSelected(
+            itemViewHolder: Presenter.ViewHolder?, item: Any?,
+            rowViewHolder: RowPresenter.ViewHolder, row: Row
+        ) {
             if (item is Movie) {
                 mBackgroundUri = item.backgroundImageUrl
                 startBackgroundTimer()
@@ -158,17 +133,21 @@ class MainFragment : BrowseSupportFragment() {
     private fun updateBackground(uri: String?) {
         val width = mMetrics.widthPixels
         val height = mMetrics.heightPixels
+/*
         Glide.with(context)
-                .load(uri)
-                .centerCrop()
-                .error(mDefaultBackground)
-                .into<SimpleTarget<GlideDrawable>>(
-                        object : SimpleTarget<GlideDrawable>(width, height) {
-                            override fun onResourceReady(resource: GlideDrawable,
-                                                         glideAnimation: GlideAnimation<in GlideDrawable>) {
-                                mBackgroundManager.drawable = resource
-                            }
-                        })
+            .load(uri)
+            .centerCrop()
+            .error(mDefaultBackground)
+            .into<SimpleTarget<GlideDrawable>>(
+                object : SimpleTarget<GlideDrawable>(width, height) {
+                    override fun onResourceReady(
+                        resource: GlideDrawable,
+                        glideAnimation: GlideAnimation<in GlideDrawable>
+                    ) {
+                        mBackgroundManager.drawable = resource
+                    }
+                })
+*/
         mBackgroundTimer?.cancel()
     }
 
@@ -185,24 +164,6 @@ class MainFragment : BrowseSupportFragment() {
         }
     }
 
-    private inner class GridItemPresenter : Presenter() {
-        override fun onCreateViewHolder(parent: ViewGroup): Presenter.ViewHolder {
-            val view = TextView(parent.context)
-            view.layoutParams = ViewGroup.LayoutParams(GRID_ITEM_WIDTH, GRID_ITEM_HEIGHT)
-            view.isFocusable = true
-            view.isFocusableInTouchMode = true
-            view.setBackgroundColor(ContextCompat.getColor(requireActivity(), R.color.default_background))
-            view.setTextColor(Color.WHITE)
-            view.gravity = Gravity.CENTER
-            return Presenter.ViewHolder(view)
-        }
-
-        override fun onBindViewHolder(viewHolder: Presenter.ViewHolder, item: Any) {
-            (viewHolder.view as TextView).text = item as String
-        }
-
-        override fun onUnbindViewHolder(viewHolder: Presenter.ViewHolder) {}
-    }
 
     companion object {
         private val TAG = "MainFragment"

@@ -27,8 +27,6 @@ import android.util.Log
 import android.widget.Toast
 
 import com.bumptech.glide.Glide
-import com.bumptech.glide.load.resource.drawable.GlideDrawable
-import com.bumptech.glide.request.animation.GlideAnimation
 import com.bumptech.glide.request.target.SimpleTarget
 
 import java.util.Collections
@@ -69,6 +67,7 @@ class VideoDetailsFragment : DetailsFragment() {
 
     private fun initializeBackground(movie: Movie?) {
         mDetailsBackground.enableParallax()
+/*
         Glide.with(context)
                 .load(movie?.backgroundImageUrl)
                 .asBitmap()
@@ -81,6 +80,7 @@ class VideoDetailsFragment : DetailsFragment() {
                         mAdapter.notifyArrayItemRangeChanged(0, mAdapter.size())
                     }
                 })
+*/
     }
 
     private fun setupDetailsOverviewRow() {
@@ -89,6 +89,7 @@ class VideoDetailsFragment : DetailsFragment() {
         row.imageDrawable = ContextCompat.getDrawable(context, R.drawable.default_background)
         val width = convertDpToPixel(context, DETAIL_THUMB_WIDTH)
         val height = convertDpToPixel(context, DETAIL_THUMB_HEIGHT)
+/*
         Glide.with(context)
                 .load(mSelectedMovie?.cardImageUrl)
                 .centerCrop()
@@ -101,6 +102,7 @@ class VideoDetailsFragment : DetailsFragment() {
                         mAdapter.notifyArrayItemRangeChanged(0, mAdapter.size())
                     }
                 })
+*/
 
         val actionAdapter = ArrayObjectAdapter()
 
